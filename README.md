@@ -3,9 +3,13 @@
 ### 🛠 Technologies
 
 **Backend:** Python, Flask, Java, Spring Boot, REST API
+
 **Frontend:** React, JavaScript, HTML/CSS, Tailwind CSS
+
 **Databases:** PostgreSQL, MySQL, SQLAlchemy
+
 **Embedded:** C, STM32, UART, PWM, FSM
+
 **Tools:** Git, Docker, STM32CubeIDE
 
 ---
